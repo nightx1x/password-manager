@@ -15,10 +15,10 @@ A simple and secure CLI password manager written in Go. It allows you to store, 
 
 ## 🧪 Usage
 Commands:
-``add [name] [password]``	Add a new password entry
-``delete [name]`` delete	Delete an entry by title
-``list``  list	List all stored titles
-``generate [name]``	Generate and save a strong random password
+- ``add [name] [password]``	Add a new password entry
+- ``delete [name]`` delete	Delete an entry by title
+- ``list``  list	List all stored titles
+- ``generate [name]``	Generate and save a strong random password
 
 
 ## 🔒 Security
