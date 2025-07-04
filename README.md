@@ -19,3 +19,9 @@ Commands:
 ``delete [name]`` delete	Delete an entry by title
 ``list``  list	List all stored titles
 ``generate [name]``	Generate and save a strong random password
+
+
+## 🔒 Security
+- AES encryption is used to secure the storage file.
+- Never share your encryption key.
+- Store the key securely (e.g., environment variables or password vault).
